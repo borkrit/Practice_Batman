@@ -2,7 +2,7 @@ body{
     background-color: #0A090A;
     color: white;
     font-family: 'Roboto', sans-serif;
-    background-image: url('./images/main-bg.png');
+    background-image: url('../images/main-bg.png');
     background-repeat: no-repeat;
     background-position: top center;
 }
@@ -128,7 +128,7 @@ margin-right: 33px;
   content: " ";
   width: 30px;
   height: 30px;
-  background-image: url('./images/play.svg');
+  background-image: url('../images/play.svg');
   background-repeat: no-repeat;
   background-size: 100%;
   margin-right: 15px;
@@ -146,7 +146,7 @@ margin-right: 33px;
   content: " ";
   width: 30px;
   height: 30px;
-  background-image: url('./images/play.svg');
+  background-image: url('../images/play.svg');
   background-repeat: no-repeat;
   background-size: 100%;
   margin-left: 15px;
