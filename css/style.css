@@ -2,7 +2,7 @@ body{
     background-color: #0A090A;
     color: white;
     font-family: 'Roboto', sans-serif;
-    background-image: url('/images/main-bg.png');
+    background-image: url('./images/main-bg.png');
     background-repeat: no-repeat;
     background-position: top center;
 }
